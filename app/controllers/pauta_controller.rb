@@ -1,0 +1,2 @@
+class PautaController < ApplicationController
+end
